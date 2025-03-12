@@ -1,0 +1,6 @@
+C:\Users\0031432512008\Downloads\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.AssemblyReference.cache
+C:\Users\0031432512008\Downloads\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Form1.resources
+C:\Users\0031432512008\Downloads\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.FormMensalista.resources
+C:\Users\0031432512008\Downloads\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.Properties.Resources.resources
+C:\Users\0031432512008\Downloads\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.GenerateResource.cache
+C:\Users\0031432512008\Downloads\PTesteClasses\PTesteClasses\obj\Debug\PTesteClasses.csproj.CoreCompileInputs.cache
